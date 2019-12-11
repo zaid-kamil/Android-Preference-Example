@@ -1,0 +1,2 @@
+rootProject.name='Themer'
+include ':app'
